@@ -1,0 +1,10 @@
+const  String  appLogo= "assets/Lepton_school/Little_flower.png";
+const String  officialLogo ="assets/Lepton_school/coarms.png";
+const String nameOfInstitution = "LITTLE FLOWER";
+const String nameInSmall = "Flower";
+const String nameInCapital = "LITTLE FLOWER";
+const String companyName ="LITTLE ";
+const String companyNameSecond ='FLOWER';
+const String companyNameSmall = "Little";
+const String chat ='Little Flower Chat';
+const String live ='Little Flower Live';

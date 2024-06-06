@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "270967599909",
+    "project_id": "little-flower-mananthavady-j-5",
+    "storage_bucket": "little-flower-mananthavady-j-5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270967599909:android:b6da41f38e6d39bc97a0cc",
+        "android_client_info": {
+          "package_name": "com.leptonschool.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGKgt_xDrx9tyxhrpeBqQSN-xgr83XSDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
