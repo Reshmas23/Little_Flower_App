@@ -72,9 +72,9 @@ class MeetingModel {
         specialGuest: json["specialGuest"] ?? "",
         time: json["time"] ?? "",
         venue: json["venue"] ?? "",
-        visibleGuardian: json["visibleGuardian"] ?? "",
-        visibleStudent: json["visibleStudent"] ?? "",
-        visibleTeacher: json["visibleTeacher"] ?? "",
+        visibleGuardian: json["visibleGuardian"] ?? false,
+        visibleStudent: json["visibleStudent"] ?? false,
+        visibleTeacher: json["visibleTeacher"] ?? false,
       );
 
   Map<String, dynamic> toJson() => {
