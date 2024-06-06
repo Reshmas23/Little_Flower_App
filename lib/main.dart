@@ -23,7 +23,6 @@ import 'package:lepton_school/view/pages/chat_gpt/providers/chats_provider.dart'
 import 'package:lepton_school/view/pages/chat_gpt/providers/models_provider.dart';
 import 'package:lepton_school/view/pages/login/dujo_login_screen.dart';
 import 'package:lepton_school/view/pages/splash_screen/splash_screen.dart';
-// import 'package:play_video/play_video.dart';
 import 'package:provider/provider.dart';
 
 import 'controllers/bloc/user_phone_otp/auth_cubit.dart';

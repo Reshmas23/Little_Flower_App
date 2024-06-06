@@ -95,7 +95,7 @@ dependencies:
 flutter_icons:
   android: true
   ios: false
-  image_path: "assets/images/leptonlogo5.png"
+  image_path: "assets/Lepton_school/coarms.png"
 
 dev_dependencies:
   flutter_test:

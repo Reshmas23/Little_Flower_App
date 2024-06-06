@@ -81,7 +81,8 @@ class ParentMessagesScreen extends StatelessWidget {
                                   // log('Getting class ID--->>>  ${snapshots.data?.docs[index]['classID']}');
                                   if (parentsnaps.hasData) {
                                     return Text(
-                                        parentsnaps.data?.data()?['parentName'],
+                                        
+                                        parentsnaps.data?.data()?['parentName']??'',
                                         style: TextStyle(
                                             color: Colors.black,
                                             fontSize: 17.sp));
